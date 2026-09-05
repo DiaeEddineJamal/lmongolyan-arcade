@@ -31,7 +31,7 @@ export default function Home() {
       <header className="portal-nav">
         <span className="portal-wordmark">
           <i aria-hidden="true">L</i>
-          <span>LMOGOLYAN</span>
+          <span>LMONGOLYAN</span>
           <b>ARCADE SYSTEMS</b>
         </span>
         <span>SELECT A CABINET <i>↘</i></span>
@@ -44,7 +44,7 @@ export default function Home() {
           <div className="portal-title-wrap">
             <span className="title-stamp">PLAY<br />TOGETHER</span>
             <h1 className="portal-title">
-              LMOGOLYAN<br />
+              LMONGOLYAN<br />
               <em>ARCADE</em>
             </h1>
           </div>
@@ -97,7 +97,7 @@ export default function Home() {
 
       <footer className="portal-footer">
         <span>MORE GAMES. SAME TABLE.</span>
-        <span>© 2026 LMOGOLYAN ARCADE</span>
+        <span>© 2026 LMONGOLYAN ARCADE</span>
       </footer>
     </main>
   );
