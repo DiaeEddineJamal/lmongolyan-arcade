@@ -1,7 +1,7 @@
-# Lmogolyan Arcade
+# Lmongolyan Arcade
 
-The standalone Next.js portal for the Lmogolyan game collection. It links to
-Mangolian Pong and the existing Lmogolyan Kart experience.
+The standalone Next.js portal for the Lmongolyan game collection. It links to
+Mangolian Pong and the existing Lmongolyan Kart experience.
 
 ## Getting Started
 
@@ -24,4 +24,4 @@ Copy `.env.example` to `.env.local` when the games run at different URLs.
 ## Environment
 
 - `NEXT_PUBLIC_PONG_URL` — Mangolian Pong URL; defaults to `http://localhost:3001`.
-- `NEXT_PUBLIC_RACING_URL` — Lmogolyan Kart URL; defaults to `http://localhost:5178`.
+- `NEXT_PUBLIC_RACING_URL` — Lmongolyan Kart URL; defaults to `http://localhost:5178`.
